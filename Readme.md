@@ -3,6 +3,8 @@
 
 Draw is an application created entirely with the Wolfram Language. It was designed to produce 2D and 3D technical illustrations.
 
+![screenshot](screenshot.png)
+
 ### Using Draw
 
 Open the Draw.nb file and evaluate draw[]; which is located in the Using Draw section. After Draw opens, click the blue help button for basic information. Hover over any button of the Draw interface to display a tooltip describing its functionality.
